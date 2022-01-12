@@ -1,3 +1,7 @@
+# Development permanently suspended
+With the update of MAS 1.5 adding all current Windows builds, including ARM support + Core -> Non-Core Windows edition switching there isn't much need for EzHWID.
+https://github.com/massgravel/Microsoft-Activation-Scripts/
+
 # EzHWID w/ Core -> Non-Core Support
 Easy to use and robust DL/KMS38 activation script with added ability to switch edition.  
 This fork, originally from [/ExeCsrss/EzHWID/](https://github.com/ExeCsrss/EzHWID/), adds support for upgrading Core to Non-Core.  
